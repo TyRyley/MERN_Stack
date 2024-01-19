@@ -1,0 +1,7 @@
+Welcome to MERN Stack!
+
+- This project uses MongoDb, Express.js, React and Node.js.
+- It is a Web App used created using React.
+- Users and create an account, login to it, and add records all using a cloud MongoDb database.
+
+- Please enure that you have installed node_modules.
